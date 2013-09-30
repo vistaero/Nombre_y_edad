@@ -23,7 +23,7 @@ Module Module1
                         respuestanombre = Console.ReadLine
                         replycounter = 2
                     Case Is = 2
-                        Console.WriteLine("No sé qué problema tienes con decirme tu edad.")
+                        Console.WriteLine("No sé qué problema tienes con decirme tu nombre.")
                         respuestanombre = Console.ReadLine
                         replycounter = 3
                     Case Is = 3
